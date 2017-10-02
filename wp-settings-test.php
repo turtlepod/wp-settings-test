@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Settings Test
  * Plugin URI: https://github.com/turtlepod/wp-settings-test
- * Description: Easily Create PoC using WP Setting Page.
+ * Description: Easily Play with WP Settings Page.
  * Version: 1.0.0
  * Author: David Chandra Purnama
  * Author URI: http://shellcreeper.com/
